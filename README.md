@@ -13,9 +13,9 @@ Welcome to the US States Quiz Game! This interactive Python project allows you t
 - Receive pop-up error messages for invalid inputs.
 - Enjoy a congratulatory message upon guessing all states correctly.
 
-## Usage
+# Usage
 
-# Installation
+## Installation
 
 1. Ensure you have Python installed. If not, download it from [python.org](https://www.python.org/downloads/).
 2. Install the required libraries using `pip install pandas turtle tk`.
